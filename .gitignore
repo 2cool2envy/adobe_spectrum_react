@@ -1,0 +1,4 @@
+adobe/node_modules
+server/node_modules
+adobe/package-lock.json
+server/package-lock.json
